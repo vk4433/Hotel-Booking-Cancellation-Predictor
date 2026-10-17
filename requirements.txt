@@ -1,0 +1,16 @@
+# App
+streamlit
+pandas
+numpy
+scikit-learn==1.9.1
+lightgbm==4.7.0
+joblib
+google-genai
+python-dotenv
+
+# Notebooks only (training, EDA, SHAP)
+xgboost
+shap
+matplotlib
+seaborn<=0.13.2
+ipykernel
